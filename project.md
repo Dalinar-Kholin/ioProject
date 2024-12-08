@@ -29,7 +29,7 @@ w czym piszemy // dla nas
    ale będziemy spodziewać się kiedy może to nastąpić i łatwo temu zapobiegniemy.
 	- smerfy pod chatą
 	- narzekanie że trudno inwestowac
-6. Zgodność z tablicą koncepcyjną:
+6. Zgodność z tablicą koncepcyjną:\\
    Po przeanalizowaniu wykonanych prac i porównaniu ich z wizją z tablicy koncepcyjnej
    oraz specyfikacji wymagań, możemy stwierdzić, że otrzymane wyniki są zadowalające.
    Aktualnie nie przewidujemy większych zmian względem tego, co zostało opisane w tablicy
