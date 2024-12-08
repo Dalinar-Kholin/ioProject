@@ -12,15 +12,27 @@ w czym piszemy // dla nas
    4. dodawanie sklepu :) 
    5. sprawdzanie zamówień
    6. dodawanie zamówień
-2. projekt architektury -
+2. Widoki:
+
+3. projekt architektury -
    - z czego korzystamy - frontend backed, baza hostinhg
    - schemat bazydanych
-3. główne zasady programowania/ kodowanaia dla ułomnych -- Kacper
-4. identyfikacja i zasady zarządzania ryzykie
+4. główne zasady programowania/ kodowanaia dla ułomnych -- Kacper
+5. Identyfikacja i zasady zarządzania ryzykiem:
+   - Niedotrzymanie terminu - Prawdopodobieństwo tego ryzyka jest
+   dość spore. Jeżeli nie będziemy na bieżąco sprawdzać postępów lub źle rozplanujemy
+   czas na wykonywanie danego etapu będziemy musieli się rozprawić z brakującym
+   czasem. Aby uniknąć tego problemu należy monitorować postępy na bieżąco. Jeśli
+   problem wystąpi pracownicy będą musieli zmierzyć się z nadgodzinami lub opóźnieniem
+   w realizacji projektu.
+   - Przeciążenie serwerów - Prawdopodobieństwo tego ryzyka na początku działania jest znikome. Z rozpoczęciem kampani reklamowej ryzyko się sporo zwiększy, 
+   ale będziemy spodziewać się kiedy może to nastąpić i łatwo temu zapobiegniemy.
 	- smerfy pod chatą
-	- cośtam do przepisania
 	- narzekanie że trudno inwestowac
-5. zgodność z tablicą koncepcyjną
-    - jest essa dobrze chłopaki robią 
-6. pierdolenie jakieś
+6. Zgodność z tablicą koncepcyjną:\\
+   Po przeanalizowaniu wykonanych prac i porównaniu ich z wizją z tablicy koncepcyjnej
+   oraz specyfikacji wymagań, możemy stwierdzić, że otrzymane wyniki są zadowalające.
+   Aktualnie nie przewidujemy większych zmian względem tego, co zostało opisane w tablicy
+   koncepcyjnej, ani specyfikacji wymagań.
+
  
