@@ -13,6 +13,13 @@ w czym piszemy // dla nas
    5. sprawdzanie zamówień
    6. dodawanie zamówień
 2. Widoki:
+![[Pasted image 20241208213920.png]]
+![[Pasted image 20241208213906.png]]
+![[Pasted image 20241208213851.png]]
+![[Pasted image 20241208213838.png]]
+![[Pasted image 20241208213823.png]]
+![[Pasted image 20241208213808.png]]
+
 
 3. projekt architektury
 
@@ -63,7 +70,6 @@ w czym piszemy // dla nas
 	}<br>
 }<br>
 
-
 4. główne zasady programowania/ kodowanaia dla ułomnych -- Kacper
    1. pisanie kodu powinno się odbywać z ogólnie przeyjętymi zasadami
    2. komentarze, nazwy zmiennych, kod powinny być pisane po angielsku - aby w razie sukcesu komercyjnego, można było rozszerzyć zespół nie zamykając się na poski rynek
@@ -91,11 +97,7 @@ w czym piszemy // dla nas
    - Przeciążenie serwerów - Prawdopodobieństwo tego ryzyka na początku działania jest znikome. Z rozpoczęciem kampani reklamowej ryzyko się sporo zwiększy, 
    ale będziemy spodziewać się kiedy może to nastąpić i łatwo temu zapobiegniemy.
 	- smerfy pod chatą
-	- narzekanie że trudno inwestowac
-6. Zgodność z tablicą koncepcyjną:\\
-   Po przeanalizowaniu wykonanych prac i porównaniu ich z wizją z tablicy koncepcyjnej
-   oraz specyfikacji wymagań, możemy stwierdzić, że otrzymane wyniki są zadowalające.
-   Aktualnie nie przewidujemy większych zmian względem tego, co zostało opisane w tablicy
-   koncepcyjnej, ani specyfikacji wymagań.
+1. Zgodność z tablicą koncepcyjną:
+   Po przeanalizowaniu wykonanych prac i porównaniu ich z wizją z tablicy koncepcyjnej oraz specyfikacji wymagań, możemy stwierdzić, że otrzymane wyniki są zadowalające. Aktualnie nie przewidujemy większych zmian względem tego, co zostało opisane w tablicy koncepcyjnej, ani specyfikacji wymagań.
 
  
