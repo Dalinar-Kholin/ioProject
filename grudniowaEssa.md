@@ -112,16 +112,16 @@
 
 ### 5. Plan wykonania produktu
 - **Etapy:**
-  - Projektowanie: 2 tygodnie.
-  - Programowanie: 6 tygodni.
-  - Testy wewnętrzne: 2 tygodnie.
-  - Beta testy: 2 tygodnie.
-  - Wdrożenie: 1 tydzień.
+  - Projektowanie: 6 tygodnie.
+  - Programowanie: 18 tygodni.
+  - Testy wewnętrzne: 6 tygodnie.
+  - Beta testy: 6 tygodnie.
+  - Wdrożenie: 3 tydzień.
 - **Pracochłonność:**
-  - Backend: 240 godzin.
-  - Frontend: 160 godzin.
-  - Testowanie: 80 godzin.
-- **Harmonogram:** 3 miesiące.
+  - Backend: 720 godzin.
+  - Frontend: 420 godzin.
+  - Testowanie: 240 godzin.
+- **Harmonogram:** 9 miesiące.
 
 ---
 
