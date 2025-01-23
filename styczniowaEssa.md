@@ -1,4 +1,5 @@
-Kacper Osadowski\n
+Kacper Osadowski
+
 Marceli Buczek
 
 ### **1. Niezbędna pojemność bazy danych**
